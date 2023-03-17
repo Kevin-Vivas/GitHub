@@ -6,7 +6,7 @@ primitive Laboratorio_01(
 
    table
       // A B C D E: F
-         0 0 0 0 0: 0; 
+         0 0 0 0 0: 1; 
          0 0 0 0 1: 0;
          0 0 0 1 0: 0;
          0 0 0 1 1: 1;
@@ -38,15 +38,6 @@ primitive Laboratorio_01(
          1 1 1 0 1: 1;
          1 1 1 1 0: 1;
          1 1 1 1 1: 0;
-         
-          
-          
-         
-         
-         
-         
-			
-
 
 
 	endtable
